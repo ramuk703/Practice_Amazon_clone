@@ -21,7 +21,7 @@
 
 .logo
 {
-  background-image: url(/assets/amazon_logo\ \(1\).png);
+  background-image: url("/Amzon\ Clone/assets/amazon_logo");
   height: 50px;
   width: 100%;
   background-size: cover;
@@ -166,7 +166,7 @@ span
 /* Main Work Body Start Here */
 .hero-section
 {
-  background-image: url(/assets/hero_image.jpg);
+  background-image: url("/Amzon\ Clone/assets/hero_image.jpg");
   height: 350px;
   background-size: cover;
   display: flex;
@@ -291,7 +291,7 @@ ul a
 
 .logo
 {
-  background-image: url(/assets/amazon_logo\ \(1\).png);
+  background-image: url("/assets/amazon_logo\ \(1\).png");
   height: 50px;
   width: 100px;
   background-size: cover;
